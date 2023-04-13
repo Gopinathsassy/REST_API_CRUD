@@ -1,0 +1,49 @@
+[19-Aug-2022 12:31:26 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/cbainruy/testapi.innovasivtech.com/copy_test/operations.php on line 78
+[02-Sep-2022 06:02:09 UTC] PHP Warning:  include_once(db.php): failed to open stream: No such file or directory in /home3/cbainruy/testapi.innovasivtech.com/emp_attendance/timesheet_api/read.php on line 5
+[02-Sep-2022 06:02:09 UTC] PHP Warning:  include_once(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/cbainruy/testapi.innovasivtech.com/emp_attendance/timesheet_api/read.php on line 5
+[02-Sep-2022 06:02:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home3/cbainruy/testapi.innovasivtech.com/emp_attendance/timesheet_api/read.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/cbainruy/testapi.innovasivtech.com/emp_attendance/timesheet_api/read.php on line 8
+[02-Sep-2022 06:02:13 UTC] PHP Warning:  include_once(db.php): failed to open stream: No such file or directory in /home3/cbainruy/testapi.innovasivtech.com/emp_attendance/timesheet_api/read.php on line 5
+[02-Sep-2022 06:02:13 UTC] PHP Warning:  include_once(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/cbainruy/testapi.innovasivtech.com/emp_attendance/timesheet_api/read.php on line 5
+[02-Sep-2022 06:02:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home3/cbainruy/testapi.innovasivtech.com/emp_attendance/timesheet_api/read.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/cbainruy/testapi.innovasivtech.com/emp_attendance/timesheet_api/read.php on line 8
+[02-Sep-2022 06:02:19 UTC] PHP Warning:  include_once(db.php): failed to open stream: No such file or directory in /home3/cbainruy/testapi.innovasivtech.com/emp_attendance/timesheet_api/read.php on line 5
+[02-Sep-2022 06:02:19 UTC] PHP Warning:  include_once(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/cbainruy/testapi.innovasivtech.com/emp_attendance/timesheet_api/read.php on line 5
+[02-Sep-2022 06:02:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home3/cbainruy/testapi.innovasivtech.com/emp_attendance/timesheet_api/read.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/cbainruy/testapi.innovasivtech.com/emp_attendance/timesheet_api/read.php on line 8
+[02-Sep-2022 06:02:37 UTC] PHP Warning:  include_once(db.php): failed to open stream: No such file or directory in /home3/cbainruy/testapi.innovasivtech.com/emp_attendance/timesheet_api/read.php on line 5
+[02-Sep-2022 06:02:37 UTC] PHP Warning:  include_once(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/cbainruy/testapi.innovasivtech.com/emp_attendance/timesheet_api/read.php on line 5
+[02-Sep-2022 06:02:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home3/cbainruy/testapi.innovasivtech.com/emp_attendance/timesheet_api/read.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/cbainruy/testapi.innovasivtech.com/emp_attendance/timesheet_api/read.php on line 8
+[02-Sep-2022 06:02:38 UTC] PHP Warning:  include_once(db.php): failed to open stream: No such file or directory in /home3/cbainruy/testapi.innovasivtech.com/emp_attendance/timesheet_api/read.php on line 5
+[02-Sep-2022 06:02:38 UTC] PHP Warning:  include_once(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/cbainruy/testapi.innovasivtech.com/emp_attendance/timesheet_api/read.php on line 5
+[02-Sep-2022 06:02:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home3/cbainruy/testapi.innovasivtech.com/emp_attendance/timesheet_api/read.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/cbainruy/testapi.innovasivtech.com/emp_attendance/timesheet_api/read.php on line 8
+[02-Sep-2022 06:03:38 UTC] PHP Warning:  include_once(db.php): failed to open stream: No such file or directory in /home3/cbainruy/testapi.innovasivtech.com/emp_attendance/timesheet_api/read.php on line 5
+[02-Sep-2022 06:03:38 UTC] PHP Warning:  include_once(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/cbainruy/testapi.innovasivtech.com/emp_attendance/timesheet_api/read.php on line 5
+[02-Sep-2022 06:03:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home3/cbainruy/testapi.innovasivtech.com/emp_attendance/timesheet_api/read.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/cbainruy/testapi.innovasivtech.com/emp_attendance/timesheet_api/read.php on line 8
+[02-Sep-2022 06:03:39 UTC] PHP Warning:  include_once(db.php): failed to open stream: No such file or directory in /home3/cbainruy/testapi.innovasivtech.com/emp_attendance/timesheet_api/read.php on line 5
+[02-Sep-2022 06:03:39 UTC] PHP Warning:  include_once(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/cbainruy/testapi.innovasivtech.com/emp_attendance/timesheet_api/read.php on line 5
+[02-Sep-2022 06:03:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home3/cbainruy/testapi.innovasivtech.com/emp_attendance/timesheet_api/read.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/cbainruy/testapi.innovasivtech.com/emp_attendance/timesheet_api/read.php on line 8
+[02-Sep-2022 06:04:30 UTC] PHP Warning:  include_once(db.php): failed to open stream: No such file or directory in /home3/cbainruy/testapi.innovasivtech.com/emp_attendance/timesheet_api/read.php on line 5
+[02-Sep-2022 06:04:30 UTC] PHP Warning:  include_once(): Failed opening 'db.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/cbainruy/testapi.innovasivtech.com/emp_attendance/timesheet_api/read.php on line 5
+[02-Sep-2022 06:04:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home3/cbainruy/testapi.innovasivtech.com/emp_attendance/timesheet_api/read.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/cbainruy/testapi.innovasivtech.com/emp_attendance/timesheet_api/read.php on line 8
